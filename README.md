@@ -2,6 +2,7 @@
 
 ## Nome: P.O.D.I (Para Onde Devo ir)
 
+#### Integrantes:
 
 * Gabriela da Rocha
 
@@ -16,8 +17,6 @@
 
 #### Status do projeto: Em desenvolvimento o Backend e Frontend.
 
-#### Pré-requisitos: GitHub, Node J.S.
-
-#### Tecnologias utilizadas: GitHub, Java Script, Mongo
+#### Tecnologias utilizadas: Java Script, Mongo, Node.Js, react native
 
 #### Licença: Gratuito para todos os usuários.
