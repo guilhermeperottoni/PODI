@@ -17,6 +17,8 @@
 
 #### Status do projeto: Em desenvolvimento o Backend e Frontend.
 
+#### Pré-requisito: Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas: Git, Node.js, além disto é bom ter um editor para trabalhar com o código como VSCode
+
 #### Tecnologias utilizadas: Java Script, Mongo, Node.Js, react native
 
 #### Licença: Gratuito para todos os usuários.
