@@ -1,6 +1,4 @@
-# Readme PODI.
-
-## Nome: P.O.D.I (Para Onde Devo ir)
+## P.O.D.I (Para Onde Devo ir)
 
 #### Integrantes:
 
